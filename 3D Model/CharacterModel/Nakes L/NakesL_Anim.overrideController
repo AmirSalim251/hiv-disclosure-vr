@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NakesL_Anim
+  m_Controller: {fileID: 9100000, guid: a02a4182d58658c4eac830d3264c57e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5a3102e64cd7f4f45b8f56d707754c7d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dc7cdf1475ecf784c9adb28f4de29869, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 424bbe7852c51fa43960861ff05cae12, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 513bdbc7ae98ee845bbbd65731902ffe, type: 2}
